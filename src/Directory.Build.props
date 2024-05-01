@@ -2,6 +2,7 @@
   <PropertyGroup Label="Settings">
     <Deterministic>true</Deterministic>
     <LangVersion>12</LangVersion>
+    <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>embedded</DebugType>
