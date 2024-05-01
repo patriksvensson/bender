@@ -23,6 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Bender.Cli\Bender.Cli.csproj" />
     <ProjectReference Include="..\Bender\Bender.csproj" />
   </ItemGroup>
 
